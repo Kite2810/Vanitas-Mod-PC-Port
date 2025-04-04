@@ -684,3 +684,420 @@
       dévastateurs plus facilement.
   gr: Vereint alle denkbaren Kräfte.
   it: Permette di equipaggiarti con un Keyblade.
+- id: 0x066C
+  en: Zone Guard
+  sp: Zone Guard
+  fr: Zone Guard
+  gr: Zone Reflektor
+  it: Zone Guard
+- id: 0x1E60
+  en: Cyclone Slash
+  sp: Cyclone Slash
+  fr: Cyclone Slash
+  gr: Zyklon-Schlitzer
+  it: Cyclone Slash
+- id: 0x399D
+  en: Desecration Slash
+  sp: Desecration Slash
+  fr: Desecration Slash
+  gr: Schändungs-Schlitzer
+  it: Desecration Slash
+- id: 0x3995
+  en: Chaos Leap
+  sp: Chaos Leap
+  fr: Chaos Leap
+  gr: Chaos Sprung
+  it: Chaos Leap
+- id: 0x39A1
+  en: Drill Counter
+  sp: Drill Counter
+  fr: Drill Counter
+  gr: Bohrzähler
+  it: Drill Counter
+- id: 0x398B
+  en: Vicious Slice
+  sp: Vicious Slice
+  fr: Vicious Slice
+  gr: Boshafter Schnitt
+  it: Vicious Slice
+- id: 0x398D
+  en: Vortex Slash
+  sp: Vortex Slash
+  fr: Vortex Slash
+  gr: Wirbel-Schlitzer
+  it: Vortex Slash
+- id: 0x398F
+  en: Sonic Dash
+  sp: Sonic Dash
+  fr: Sonic Dash
+  gr: Überschallknall
+  it: Sonic Dash
+- id: 0x3991
+  en: Vanquish Breaker
+  sp: Vanquish Breaker
+  fr: Vanquish Breaker
+  gr: Bezwingungsbrecher
+  it: Vanquish Breaker
+- id: 0x3993
+  en: Explosive Brutality
+  sp: Explosive Brutality
+  fr: Explosive Brutality
+  gr: Brisante Brutalität
+  it: Explosive Brutality
+- id: 0x3997
+  en: Duelist's Counterguard
+  sp: Duelist's Counterguard
+  fr: Duelist's Counterguard
+  gr: Ausweichkonter des Duellanten
+  it: Duelist's Counterguard
+- id: 0x3999
+  en: Aerial Ravager
+  sp: Aerial Ravager
+  fr: Aerial Ravager
+  gr: Luftverwüster
+  it: Aerial Ravager
+- id: 0x399B
+  en: Brawler's Dance
+  sp: Brawler's Dance
+  fr: Brawler's Dance
+  gr: Zänkertanz
+  it: Brawler's Dance
+- id: 0x399F
+  en: Maniacal Finale
+  sp: Maniacal Finale
+  fr: Maniacal Finale
+  gr: Manisches Finale
+  it: Maniacal Finale
+
+- id: 0x4E76
+  en: Magna Burst
+  sp: Magna Burst
+  fr: Magna Burst
+  gr: Magna Burst
+  it: Magna Burst
+- id: 0x4E78
+  en: Vicinity Slayer
+  sp: Vicinity Slayer
+  fr: Vicinity Slayer
+  gr: Umgebungstöter
+  it: Vicinity Slayer
+- id: 0x4E81
+  en: Possessed Form
+  sp: Possessed Form
+  fr: Possessed Form
+  gr: Besessene Form
+  it: Possessed Form
+- id: 0x4E7F
+  en: Possessed Form
+  sp: Possessed Form
+  fr: Possessed Form
+  gr: Besessene Form
+  it: Possessed Form
+- id: 0x4E80
+  en: Possession
+  sp: Possession
+  fr: Possession
+  gr: Besessen
+  it: Possession
+- id: 0x4E8B
+  en: Auto Possession
+  sp: Auto Possession
+  fr: Auto Possession
+  gr: Auto Besessen
+  it: Auto Possession
+- id: 0x4E9B
+  en: Possessed LV
+  sp: Possessed LV
+  fr: Possessed LV
+  gr: Besessene-Form-LV
+  it: Possessed LV
+- id: 0x4E9E
+  en: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  sp: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  fr: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  gr: Setzt das Situations-Kommando in kritischen
+
+      Momenten automatisch auf "Bessessene-Form",
+
+      falls diese Form verfügbar ist.
+  it: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+- id: 0x4EA1
+  en: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  sp: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  fr: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  gr: Bessesene-Form-Level. Bei Level-Aufstieg
+
+      erhöht sich die Verweildauer in der Form,
+
+      und die Abilitys werden stärker.
+  it: The Form gauge for Possessed Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+- id: 0x4EA0
+  en: Possessed Form Status.
+
+      A form specializing in Limit attacks.
+
+      Drive points consumed 4{:reset}
+  sp: Possessed Form Status.
+
+      A form specializing in Limit attacks.
+
+      Drive points consumed 4{:reset}
+  fr: Possessed Form Status.
+
+      A form specializing in Limit attacks.
+
+      Drive points consumed 4{:reset}
+  gr: Status der Bessessene-Form. Eine Form, die auf die
+
+      Verwendung von Limit-Techniken spezialisiert ist.
+
+      Drive-Leisten-Verbrauch 4{:reset}
+  it: Possessed Form Status.
+
+      A form specializing in Limit attacks.
+
+      Drive points consumed 4{:reset}
+- id: 0x4E8D
+  en: Sonic Shadow
+  sp: Sonic Shadow
+  fr: Sonic Shadow
+  gr: Schall-Schatten
+  it: Sonic Shadow
+- id: 0x4E8F
+  en: Another Side
+  sp: Another Side
+  fr: Another Side
+  gr: Fatal-Arkana
+  it: Another Side
+- id: 0x4E91
+  en: Faceless Retribution
+  sp: Faceless Retribution
+  fr: Faceless Retribution
+  gr: Gesichtslose Vergeltung
+  it: Faceless Retribution
+- id: 0x4E93
+  en: Malignant Damnation
+  sp: Malignant Damnation
+  fr: Malignant Damnation
+  gr: Bösartige Verdammnis
+  it: Malignant Damnation
+- id: 0x4E95
+  en: Endless Pain
+  sp: Endless Pain
+  fr: Endless Pain
+  gr: Endloser Schmerz
+  it: Endless Pain
+- id: 0x4E97
+  en: Ripple Dash
+  sp: Ripple Dash
+  fr: Ripple Dash
+  gr: Rippelschlag
+  it: Ripple Dash
+- id: 0x4E99
+  en: Hurricane Desecration
+  sp: Hurricane Desecration
+  fr: Hurricane Desecration
+  gr: Wirbelsturm-Schändung
+  it: Hurricane Desecration
+- id: 0x01E8
+  en: Remnant Form
+  sp: Remnant Form
+  fr: Remnant Form
+  gr: Restliche-Form
+  it: Remnant Form
+- id: 0x0648
+  en: Remnant Form
+  sp: Remnant Form
+  fr: Remnant Form
+  gr: Restliche-Form
+  it: Remnant Form
+- id: 0x0462
+  en: Change Sub-Weapon used in Remnant Form.
+  sp: Change Sub-Weapon used in Remnant Form.
+  fr: Change Sub-Weapon used in Remnant Form.
+  gr: Zweitwaffe der Restliche-Form wechseln
+  it: Change Sub-Weapon used in Remnant Form.
+- id: 0x3BD1
+  en: Automatically sets the Reaction
+
+      Command to Remnant in a pinch, if
+
+      Remnant Form is usable.
+  sp: Automatically sets the Reaction
+
+      Command to Remnant in a pinch, if
+
+      Remnant Form is usable.
+  fr: Automatically sets the Reaction
+
+      Command to Remnant in a pinch, if
+
+      Remnant Form is usable. 
+  gr: Setzt das Situations-Kommando in kritischen
+
+      Momenten automatisch auf "Restliche-Form",
+
+      falls diese Form verfügbar ist.
+  it: Automatically sets the Reaction
+
+      Command to Remnant in a pinch, if
+
+      Remnant Form is usable. 
+- id: 0x4581
+  en: Remnant Form Level. Time spent
+
+      transformed becomes longer, and
+
+      Abilities become stronger by leveling up.
+  sp: Remnant Form Level. Time spent
+
+      transformed becomes longer, and
+
+      Abilities become stronger by leveling up.
+  fr: Remnant Form Level. Time spent
+
+      transformed becomes longer, and
+
+      Abilities become stronger by leveling up.
+  gr: Restliche-Form-Level. Bei Level-Aufstieg
+
+      erhöht sich die Verweildauer in der Form,
+
+      und die Abilitys werden stärker.
+  it: Remnant Form Level. Time spent
+
+      transformed becomes longer, and
+
+      Abilities become stronger by leveling up.
+- id: 0x458D
+  en: For each Nobody defeated in Remnant Form,
+
+      1 point of experience is gained.
+  sp: For each Nobody defeated in Remnant Form,
+
+      1 point of experience is gained.
+  fr: For each Nobody defeated in Remnant Form,
+
+      1 point of experience is gained.
+  gr: Für jeden besiegten Niemand in
+
+      der Restliche-Form erhältst du einen
+
+      Erfahrungspunkt.
+  it: For each Nobody defeated in Remnant Form,
+
+      1 point of experience is gained.
+- id: 0x458F
+  en: The Form gauge for Remnant Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  sp: The Form gauge for Remnant Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  fr: The Form gauge for Remnant Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+  gr: Die Form-Leiste für die Restliche-Form.
+
+      Je höher der Wert der Leiste, desto
+
+      länger die Verweildauer in der Form.
+  it: The Form gauge for Remnant Form.
+
+      The longer the gauge, the longer
+
+      the time spent transformed.
+- id: 0x4B92
+  en: Remnant Form Status. A Form that
+
+      unleashes the Keyblade's true power.
+
+      Drive points consumed 5{:reset}
+  sp: Remnant Form Status. A Form that
+
+      unleashes the Keyblade's true power.
+
+      Drive points consumed 5{:reset}
+  fr: Remnant Form Status. A Form that
+
+      unleashes the Keyblade's true power.
+
+      Drive points consumed 5{:reset}
+  gr: Status der Restliche-Form. Eine Form, die die
+
+      wahre Kraft des Schlüsselschwerts freisetzt.
+
+      Drive-Leisten-Verbrauch 5{:reset}
+  it: Remnant Form Status. A Form that
+
+      unleashes the Keyblade's true power.
+
+      Drive points consumed 5{:reset}
+- id: 0x01E6
+  en: Ersatz Form
+  sp: Ersatz Form
+  fr: Ersatz Form
+  gr: Ersatz-Form
+  it: Ersatz Form
+- id: 0x0644
+  en: Ersatz Form
+  sp: Ersatz Form
+  fr: Ersatz Form
+  gr: Ersatz-Form
+  it: Ersatz Form
+- id: 0x368D
+  en: Dark Aura
+  sp: Dark Aura
+  fr: Dark Aura
+  gr: Dunkle Ausstrahlung
+  it: Dark Aura
+- id: 0x45AD
+  en: Remnant LV
+  sp: Remnant LV
+  fr: Remnant LV
+  gr: Restliche-Form-LV
+  it: Remnant LV
+- id: 0x45AB
+  en: Ersatz LV
+  sp: Ersatz LV
+  fr: Ersatz LV
+  gr: Ersatz-Form-LV
+  it: Ersatz LV
