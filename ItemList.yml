@@ -14,6 +14,21 @@ Items:
   Picture: 346
   Icon1: 0
   Icon2: 4
+- Id: 45
+  Type: Keyblade
+  Flag0: 0
+  Flag1: 51
+  Rank: C
+  StatEntry: 84
+  Name: 34250
+  Description: 34251
+  ShopBuy: 0
+  ShopSell: 0
+  Command: 0
+  Slot: 37
+  Picture: 345
+  Icon1: 0
+  Icon2: 4
 Stats:
 - Id: 80
   Ability: 542
