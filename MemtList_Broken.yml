@@ -1,8 +1,8 @@
 MemtEntries: 
   - Index: 3
     WorldId: 2
-    CheckStoryFlag: 0
-    CheckStoryFlagNegation: 0
+    CheckStoryFlag: 219
+    CheckStoryFlagNegation: 208
     Unk06: 0
     Unk08: 0
     Unk0A: 60
@@ -11,8 +11,8 @@ MemtEntries:
     Members: [3499, 0, 0, 0, 3499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   - Index: 4
     WorldId: 2
-    CheckStoryFlag: 0
-    CheckStoryFlagNegation: 0
+    CheckStoryFlag: 206
+    CheckStoryFlagNegation: 207
     Unk06: 0
     Unk08: 0
     Unk0A: 60
@@ -21,8 +21,8 @@ MemtEntries:
     Members: [3499, 0, 0, 0, 3499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   - Index: 5
     WorldId: 2
-    CheckStoryFlag: 0
-    CheckStoryFlagNegation: 0
+    CheckStoryFlag: 208
+    CheckStoryFlagNegation: 209
     Unk06: 0
     Unk08: 0
     Unk0A: 60
