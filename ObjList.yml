@@ -1,17 +1,47 @@
-3499:
-  ObjectId: 3499
+803:
+  ObjectId: 803
   ObjectType: PLAYER
   SubType: 0
   DrawPriority: 0
   WeaponJoint: 14
-  ModelName: P_EXVEN
-  AnimationName: P_EXVEN.mset
+  ModelName: P_EX110_BTLF
+  AnimationName: P_EX110_BTLF.mset
   Flags: 0
   ObjectTargetType: M
   Padding: 0
   NeoStatus: 14
   NeoMoveset: 9
   Weight: 100
+  SpawnLimiter: 0
+  Page: 0
+  ObjectShadowSize: MiddleShadow
+  ObjectForm: SoraRoxasDefault
+  SpawnObject1: 0
+  SpawnObject2: 0
+  SpawnObject3: 0
+  SpawnObject4: 0
+  NoApdx: false
+  Before: false
+  FixColor: false
+  Fly: false
+  Scissoring: false
+  IsPirate: false
+  WallOcclusion: false
+  Hift: false
+307:
+  ObjectId: 307
+  ObjectType: BOSS
+  SubType: 0
+  DrawPriority: 0
+  WeaponJoint: 0
+  ModelName: B_EX100
+  AnimationName: B_EX100.mset
+  Flags: 0
+  ObjectTargetType: M
+  Padding: 0
+  NeoStatus: 4001
+  NeoMoveset: 0
+  Weight: 500
   SpawnLimiter: 0
   Page: 0
   ObjectShadowSize: MiddleShadow
