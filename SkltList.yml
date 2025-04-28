@@ -19,3 +19,7 @@
 - CharacterId: 24
   Bone1: -1
   Bone2: -1
+- CharacterId: 20
+  Bone1: 178
+  Bone2: 86
+

@@ -1,11 +1,11 @@
-803:
-  ObjectId: 803
+3499:
+  ObjectId: 3499
   ObjectType: PLAYER
   SubType: 0
   DrawPriority: 0
   WeaponJoint: 14
-  ModelName: P_EX110_BTLF
-  AnimationName: P_EX110_BTLF.mset
+  ModelName: P_EXVEN
+  AnimationName: P_EXVEN.mset
   Flags: 0
   ObjectTargetType: M
   Padding: 0
